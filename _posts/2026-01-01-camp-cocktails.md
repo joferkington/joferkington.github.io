@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Joe's Camp Cocktail Guide"
+---
+
 # Joe's overly opinionated guide to camp cocktails
 
 ### Why bother?
