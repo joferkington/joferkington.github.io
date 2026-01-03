@@ -1,11 +1,9 @@
 ---
 layout: default
-title: "Joe's Camp Cocktail Guide"
+title: "Joe's overly opinionated guide to camp cocktails"
 ---
 
-# Joe's overly opinionated guide to camp cocktails
-
-### Why bother?
+### Why bother with cocktails when camping?
 
 To start with, why try to make a cocktail when you're out in the boondocks? Personally, I like eating and drinking well on trips, and I find that taking the time to make a nice pre or post dinner drink is well worth it. I'm all for beer at the end of the day or wine with dinner or a nice pour of whiskey around a fire. A cocktail in camp can feel a bit more special, though.  It's something a little more unexpected. Sure, it's fancy and a bit excessive, but that's part of the charm, and it doesn't have to be complicated to feel "fancy". 
 
@@ -18,13 +16,13 @@ This is oriented at heavier camping styles.  Car camping (call it overlanding if
 If you don't want to read all of the details, here are the points that I think are the most relevant:
 
 * Ice is precious and rare when camping. Replacing ice is the biggest challenge to camp cocktails.  
-* Dilution is key, especially when you don't have ice. Get things as cold as possible and add water (club soda is great for this).  
-* Reportion all ingredients into smaller bottles. Avoid glass. HDPE scientific bottles are your friend\! (Yes, HDPE is safe and won't taste like plastic.)  
-* Leave the glassware and bar tools at home. Whatever you're using for other drinks will work fine for cocktails. Bar spoons, shaker tins, and strainers aren't useful without ice.  
+* [Dilution](#dilution) is key, especially when you don't have ice. Get things as cold as possible and add water (club soda is great for this).  
+* Reportion all ingredients into [smaller bottles](#how-should-i-store-things). Avoid glass. HDPE scientific bottles are your friend\! (Yes, HDPE is safe and won't taste like plastic.)  
+* Leave the [glassware](#glassware) and [bar tools](#bar-tools) at home. Whatever you're using for other drinks will work fine for cocktails. Bar spoons, shaker tins, and strainers aren't useful without ice.  
 * There are roughly three main approaches to cocktails in camp:  
-  * Single-bottle (Gin & tonic or rum & coke, sure, but also think of a martini bar or an old fashioned bar.)  
-  * Batched (Mix ahead. Best option for tiki. Good for planned dinner pairings)  
-  * The camp bar (Pick a few core things, repackage into small bottles, and know what you can make to order. Assumes you already have a well-stocked bar at home.)
+  - [Single-bottle](#jazzing-up-the-single-bottle) (Gin & tonic or rum & coke, sure, but also think of a martini bar or an old fashioned bar.)  
+  - [Batched](#batching-it-up) (Mix ahead. Best option for tiki. Good for planned dinner pairings)  
+  - [The camp bar](#small-bar-examples) (Pick a few core things, repackage into small bottles, and know what you can make to order. Assumes you already have a well-stocked bar at home.)
 
 ### How should I store things?
 
