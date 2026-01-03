@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Joe's overly opinionated guide to camp cocktails"
+description: "A treatise on booze in the backcountry"
 ---
 
 ### Why bother with cocktails when camping?
@@ -254,9 +255,9 @@ Suggested cocktail list:
 * [Italian Nightcap](#italian-nightcap)
 * (and many others\! E.g. highballs, sours, etc)
 
-#### Inside Job
+#### The Big Easy
 
-There's a lot of overlap with the previous list in this, but at the end of the day, this is really just a list of ingredients I like. If you like cherries, it's worth considering adding some brandied cherries or maraschino cherries to this list. I can take them or leave them, but they do go nicely with some of these. This is cheating by including six ingredients, but bitters don't take up much space or weight, and the Peychaud's goes a long way here.
+There's a lot of overlap with the previous list in this, but at the end of the day, this is really just a list of ingredients I like. It also happens to include several New Orleans classics. If you like cherries, it's worth considering adding some brandied cherries or maraschino cherries to this list. I can take them or leave them, but they do go nicely with some of these. This is cheating by including six ingredients, but bitters don't take up much space or weight, and the Peychaud's goes a long way here.
 
 * Rye/bourbon (large bottle, e.g. 750ml)  
 * Maraschino (very small bottle, e.g. 4 oz)  
