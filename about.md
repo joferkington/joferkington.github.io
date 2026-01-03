@@ -1,9 +1,13 @@
-About Me
-========
+---
+layout: default
+title: "About Me"
+description: "There's not a ton to say..."
+---
 
-I'm a geologist by training, but these days do mostly software. I have strange
-hobbies, and there isn't that much to know about me. I do have a cute doggo,
-though!
+I'm a geologist by training, but these days do mostly software. I work for a
+company that makes satellites and focus on remote sensing data processing. I
+have strange hobbies, and there isn't that much to know about me. I do have a
+cute doggo, though!
 
 ![Copper, the redtick coonhound](./static/PXL_20251030_144040000.jpg "Copper")
 ![Copper jumps over a log](./static/PXL_20250705_162958472.jpg "Jumping over a log")
